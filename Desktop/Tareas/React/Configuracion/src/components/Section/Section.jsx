@@ -28,7 +28,7 @@ const fruits =[
 ];
 export const Section = () => {
     const handleClick=(name)=>{
-        console.log(`Contactarle a ${name}`)
+        alert(`Esta conectado a ${name}`)
     }
 
 return (
